@@ -54,3 +54,8 @@ Compute targets are cloud-based resources on which you can run model training an
 
 ![img1](https://github.com/MisterArbazzz/CloudML/assets/87564754/3564fc14-3896-4ed6-975e-94a0dc38373a)
 
+![img4](https://github.com/MisterArbazzz/CloudML/assets/87564754/5a386118-1201-48fa-844e-39426ae6c48e)
+
+![img3](https://github.com/MisterArbazzz/CloudML/assets/87564754/8bfa9a7a-dd28-44f7-95fc-f26c215ba290)
+
+![img2](https://github.com/MisterArbazzz/CloudML/assets/87564754/f4173483-3dca-4f5c-b629-300f0f481df3)
